@@ -1,4 +1,7 @@
 package com.studentclass;
+
+//This is the student class with the constructor, setter and getter methods for all variables
+
 import java.util.Scanner;
 
 public class Student {
